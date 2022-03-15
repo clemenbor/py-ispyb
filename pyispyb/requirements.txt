@@ -20,3 +20,6 @@ ruamel.yaml
 pdfkit
 python-barcode
 qrcode
+MarkupSafe==2.0.1
+# Pillow is needed for barcode ImageWriter
+Pillow
